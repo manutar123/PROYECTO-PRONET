@@ -1,4 +1,4 @@
-# 📡 Plan Maestro de Direccionamiento - ISP PRONET
+# Plan Maestro de Direccionamiento - ISP PRONET
 
 ## 1. Segmentación Base IPv4 (10.1.0.0/16)
 | Sección | Uso / Descripción | Red / Máscara | Gateway | Broadcast |
