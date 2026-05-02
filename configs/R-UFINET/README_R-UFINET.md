@@ -68,4 +68,4 @@ La tabla de enrutamiento debe mostrar exclusivamente las redes que el router con
 ---
 
 > [!IMPORTANT]  
-> **Nota de Ingeniería:** Si al ejecutar `show ip interface brief` el protocolo de la **Gi0/0** aparece como `down`, verifique la conexión física o la configuración de la interfaz en el extremo opuesto (Core).
+> **Nota:** Si al ejecutar `show ip interface brief` el protocolo de la **Gi0/0** aparece como `down`, verifique la conexión física o la configuración de la interfaz en el extremo opuesto (Core).
